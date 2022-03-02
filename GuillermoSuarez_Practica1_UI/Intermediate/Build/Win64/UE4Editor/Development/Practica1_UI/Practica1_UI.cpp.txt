@@ -1,0 +1,2 @@
+C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\Definitions.Practica1_UI.h
+C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Source\Practica1_UI\Practica1_UI.h

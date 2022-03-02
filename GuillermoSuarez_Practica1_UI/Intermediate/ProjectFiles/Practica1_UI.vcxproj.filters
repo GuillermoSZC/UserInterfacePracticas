@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Practica1_UI.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AFF5461E-722F-43A0-AD8A-24ED1E196ED3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Practica1_UI.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Practica1_UIEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1A537236-2FEB-4079-AA2D-FC071F2362C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Practica1_UI">
+      <UniqueIdentifier>{9ED529A4-6845-40A6-BB80-90A4C0966EB1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Practica1_UI\GameModeClass.cpp">
+      <Filter>Source\Practica1_UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica1_UI\GameModeClass.h">
+      <Filter>Source\Practica1_UI</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Practica1_UI\Practica1_UI.Build.cs">
+      <Filter>Source\Practica1_UI</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Practica1_UI\Practica1_UI.cpp">
+      <Filter>Source\Practica1_UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Practica1_UI\Practica1_UI.h">
+      <Filter>Source\Practica1_UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

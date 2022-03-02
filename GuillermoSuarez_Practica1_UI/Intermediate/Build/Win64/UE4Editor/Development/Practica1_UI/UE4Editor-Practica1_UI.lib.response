@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Practica1_UI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\Practica1_UIEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\Practica1_UI.cpp.obj"
+"C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\Default.rc2.res"
+/OUT:"C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\UE4Editor-Practica1_UI.lib"

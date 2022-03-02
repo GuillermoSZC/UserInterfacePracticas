@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Practica1_UI",
+			"Path": "C:\\Users\\Soker\\Desktop\\PRACTICAS_UI\\GuillermoSuarez_Practica1_UI\\Source\\Practica1_UI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Practica1_UIEditor",
+			"Path": "C:\\Users\\Soker\\Desktop\\PRACTICAS_UI\\GuillermoSuarez_Practica1_UI\\Source\\Practica1_UIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

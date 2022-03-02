@@ -1,0 +1,13 @@
+﻿  Deleted hot-reload file: C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Binaries\Win64\UE4Editor-Practica1_UI-0755.dll
+  Deleted hot-reload file: C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Binaries\Win64\UE4Editor-Practica1_UI-0755.pdb
+  Deleted hot-reload file: C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\UE4Editor-Practica1_UI-0755.lib
+  Building Practica1_UIEditor...
+  Using Visual Studio 2019 14.29.30140 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 24 processes...
+    [1/3] UE4Editor-Practica1_UI.lib
+       Creating library C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\UE4Editor-Practica1_UI.lib and object C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\UE4Editor-Practica1_UI.exp
+    [2/3] UE4Editor-Practica1_UI.dll
+       Creating library C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\UE4Editor-Practica1_UI.suppressed.lib and object C:\Users\Soker\Desktop\PRACTICAS_UI\GuillermoSuarez_Practica1_UI\Intermediate\Build\Win64\UE4Editor\Development\Practica1_UI\UE4Editor-Practica1_UI.suppressed.exp
+    [3/3] Practica1_UIEditor.target
+  Total time in Parallel executor: 0,75 seconds
+  Total execution time: 1,10 seconds
